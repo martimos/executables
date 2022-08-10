@@ -16,12 +16,12 @@ dependencies = [
 [[package]]
 name = "kernel_constants"
 version = "0.1.0"
-source = "git+https://github.com/martimos/kernel_constants#2fe523b3e2d9464dda7113f2991bfb2bb99bddb6"
+source = "git+https://github.com/martimos/kernel_constants#3f061142ae7b97d2f20f707a6b4ea37f23e69845"
 
 [[package]]
 name = "mstd"
 version = "0.1.0"
-source = "git+https://github.com/martimos/mstd#40d4629fe068c09990d77b8aabf9ab9c3809ccdb"
+source = "git+https://github.com/martimos/mstd#d7c4d5a56a72c955679668aa5a683319b7897811"
 dependencies = [
  "kernel_constants",
 ]
